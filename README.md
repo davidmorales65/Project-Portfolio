@@ -10,7 +10,7 @@ Beyond my professional work, I am deeply involved in the data community. I am an
 
 Throughout my career, I have had the opportunity to work on a diverse range of data projects, from exploratory data analysis to predictive modeling and beyond. This repository serves as a platform to showcase some of the notable projects I have undertaken, demonstrating my proficiency in handling complex datasets, employing analytical techniques, and effectively communicating insights.
 
-I am constantly seeking new challenges and opportunities to apply my data skills. If you have any questions, suggestions, or would like to collaborate on a project, please feel free to reach out to me via [provide your preferred method of contact, such as email or LinkedIn]. Let's connect and explore the world of data together!
+I am constantly seeking new challenges and opportunities to apply my data skills. If you have any questions, suggestions, or would like to collaborate on a project, please feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/davidmoralesc). Let's connect and explore the world of data together!
 
 Thank you for visiting my repository! I hope you find my projects insightful and gain a better understanding of my data skills and experience.
 
